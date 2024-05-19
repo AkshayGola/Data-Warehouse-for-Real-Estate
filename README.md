@@ -11,6 +11,7 @@ etc.
 3) Property
 4) Customer
 5) PaymentType
+
 **Fact Tables**
 1) Sale
 2) Rental
